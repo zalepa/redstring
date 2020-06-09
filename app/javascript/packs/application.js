@@ -18,3 +18,6 @@ require("channels")
 
 // Import stylesheets
 import '../stylesheets/application';
+
+// Bootstrap
+import './bootstrap_custom.js'
